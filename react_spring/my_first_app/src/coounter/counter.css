@@ -1,0 +1,10 @@
+.counter{
+    border:1px solid black;
+    font-size: 2rem;
+    width: 20%;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    font-size: 2rem;
+}
