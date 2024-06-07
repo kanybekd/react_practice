@@ -1,0 +1,31 @@
+.app {
+  display: flex;
+  margin: auto;
+  width: 20%;
+  border: 1px solid black;
+  flex-direction: column;
+}
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+span {
+  font-size: 1.5rem;
+}
+.totalItems {
+  display: flex;
+  align-items: end;
+  justify-content: end;
+}
+.totalItem {
+  border: 1px solid teal;
+  border-radius: 45%;
+  padding: 0 5px;
+  margin: 5px;
+  /* background-color:; */
+}
+.innerSection {
+  display: flex;
+  flex-direction: column;
+}
