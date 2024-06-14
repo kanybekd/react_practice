@@ -10,8 +10,9 @@ import ReactDOM from "react-dom/client";
 
 // import MyImagesApp from "./ImageProject/MyImagesApp";
 // import App from "./FolderStructure/index";
-import App from "./survey/survey";
-
+// import App from "./survey/survey";
+// import TikTakToe from "./tiktaktoe/tiktaktoe";
+import App from "./Articles/App";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const root = ReactDOM.createRoot(document.querySelector(".seytech"));
